@@ -1,10 +1,10 @@
 # Hi there 👋 
 
-## I'm Rizal Ilham | Senior Backend Developer | Open Source Contributor 💻 
+## I'm Rizal Ilham | Senior Backend Developer | Open to Work 👨🏻‍💻
 
-I'm passionate about **Backend Engineer with 4 years of experience building reliable, high-performing systems. My expertise is primarily in Golang, Python and related frameworks along with, focusing on scale, security, and maintainability.** and building tools that make a real impact.
+I'm passionate about **Backend Engineer with 4 years of experience building reliable, high-performing systems and creating Microservices. My expertise is primarily in Golang, Python, NodeJs and related frameworks along with, focusing on scale, security, and maintainability.** and building tools that make a real impact.
 
-### currently working on Bank Rakyat Indonesia, Tbk - one of largest banking company in indonesia.
+### currently working at PT. Bank Rakyat Indonesia, Tbk - one of largest Banking Company in Indonesia.
 
 ---
 
@@ -13,7 +13,8 @@ I'm passionate about **Backend Engineer with 4 years of experience building reli
 * **Frameworks:** Express, Flask, Django, django-rest-framework, Echo, Gin, Fiber and all releated framework that releated with it
 * **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 * **Message Brocker:** Kafka
-* **Tools:** Git, Docker, Kubernetes, Jenkins
+* **Arch:** Microservices, System Design, Design Pattern, CQRS
+* **Tools:** Git, Docker, Kubernetes, Jenkins, Sonarqube
 
 ---
 
