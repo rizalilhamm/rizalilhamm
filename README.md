@@ -12,7 +12,7 @@ I'm passionate about **Backend Engineer with 4 years of experience building reli
 * **Languages:** Golang, Python, NodeJs, PHP
 * **Frameworks:** Express, Flask, Django, django-rest-framework, Echo, Gin, Fiber and all releated framework that releated with it
 * **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-* **Message Brocker:** Kafka
+* **Message Broker:** Kafka
 * **Arch:** Microservices, System Design, Design Pattern, CQRS
 * **Tools:** Git, Docker, Kubernetes, Jenkins, Sonarqube
 
