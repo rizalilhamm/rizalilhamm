@@ -4,7 +4,7 @@
 
 I'm passionate about **Backend Engineer with 4 years of experience building reliable, high-performing systems and creating Microservices. My expertise is primarily in Golang, Python, NodeJs and related frameworks along with, focusing on scale, security, and maintainability.** and building tools that make a real impact.
 
-### currently working at PT. Bank Rakyat Indonesia, Tbk - one of largest Banking Company in Indonesia.
+### Currently working at PT. Bank Rakyat Indonesia, Tbk - one of largest Banking Company in Indonesia.
 
 ---
 
