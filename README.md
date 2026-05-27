@@ -17,10 +17,7 @@ I'm passionate about **Backend Engineer with 4 years of experience building reli
 ---
 
 ### 🚀 Let's Connect and make real impactful project, more detail about me can be checked by following profile!
-
-* **LinkedIn:** [Rizal Ilham](https://www.linkedin.com/in/rizal-ilham/)
-* **Upwork:** [Rizal Ilham](https://www.upwork.com/freelancers/~01bda83e8e9847da7d?mp_source=share)
-* **Email:** [rizalilhamjob@gmail.com](rizalilhamjob@gmail.com)
+* **Detail Portfolio:** [https://rizalilham.vercel.app/](https://rizalilham.vercel.app/)
 
 **Best Regards,**
 **Rizal Ilham**
