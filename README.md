@@ -7,5 +7,5 @@ I have create personal portfolio and more about me in the following link. Hopefu
 
 Can not wait to hear good news from you.
 
-**Best Regards,**
-**Rizal Ilham**
+Best Regards,
+Rizal Ilham
