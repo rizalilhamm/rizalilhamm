@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Rizal Ilham - Backend Developer with 4 years experiences in the national and international company.
+I'm Rizal Ilham - Backend Developer with 4+ years experience in the national and international companies.
 
-I have create personal portfolio and more about me in the following link. Hopefully we can work together and im very exited to contribute to the impactful projects.
+I have created personal portfolio and more about me in the following link. Hopefully we can work together and Im very exited to contribute to the impactful projects.
 
 * **Detail Portfolio:** [https://rizalilham.vercel.app](https://rizalilham.vercel.app)
 
